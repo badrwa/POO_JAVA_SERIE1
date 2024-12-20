@@ -1,0 +1,11 @@
+hello mr.aymen for not confusing you this is map class principales of the exercices,
+and about other classes they are like exercices say.
+
+Ex1:
+class principale{Bibliothèque}
+Ex2:
+class principale{Véhicules}
+Ex3:
+class principale{Employees}
+ 
+tanks for reading 
